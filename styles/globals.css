@@ -7,11 +7,6 @@ body {
   font-family: DM, monospace;
   color: #1400ff;
 }
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
 @font-face {
   font-family: DM;
