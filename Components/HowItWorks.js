@@ -9,7 +9,7 @@ function HowItWorks() {
     <div className="mt-12 md:mt-[10rem]">
       <BoldText text="How it works- #theplug 🔌" />
       <div className="w-full flex items-center justify-center">
-        <div className="flex mario-items justify-center flex-col mt-4 tracking-wider">
+        <div className="flex mario-items justify-center flex-col mt-4 ">
           <div className="mario_item flex  justify-center flex-col ">
             <div className="title flex flex-row text-[13px]  ">
               {" "}
