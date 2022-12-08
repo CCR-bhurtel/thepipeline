@@ -4,11 +4,10 @@ function Form({ buttontext }) {
   return (
     <form className="flex items-end justify-center mt-4">
       <iframe
-        src="https://embeds.beehiiv.com/80bf0c42-dc7f-49cc-a7ae-451c6dc72855?slim=true"
+        src="https://embeds.beehiiv.com/80bf0c42-dc7f-49cc-a7ae-451c6dc72855?slim=true&embed=true"
         data-test-id="beehiiv-embed"
         frameborder="0"
         scrolling="no"
-        X-frame="none"
       ></iframe>
       {/* <input
         type="text"
