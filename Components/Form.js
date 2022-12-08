@@ -8,7 +8,11 @@ function Form({ buttontext }) {
         data-test-id="beehiiv-embed"
         frameborder="0"
         scrolling="no"
-        style="margin: 0; border-radius: 0px !important; background-color: transparent;"
+        style={{
+          margin: 0,
+          borderRadius: "0px !important",
+          backgroundColor: "transparent",
+        }}
       ></iframe>
       {/* <input
         type="text"
