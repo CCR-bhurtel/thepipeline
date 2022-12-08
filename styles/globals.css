@@ -24,7 +24,6 @@ body {
   font-family: DM;
   src: url("../Assets/DMMono-Regular.ttf");
 }
-
-.inJVdt {
-  color: #1400ff !important;
+iframe {
+  height: 90px;
 }
