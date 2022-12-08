@@ -11,7 +11,7 @@ function Form({ buttontext }) {
       <div className="button group cursor-pointer">
         <div
           type="submit"
-          className="border-0 outline-0 text-[0.8rem] font-medium ml-2 group-hover:font-normal"
+          className="border-0 outline-0 text-[0.9rem] font-medium ml-2 group-hover:font-normal"
         >
           {buttontext}
         </div>

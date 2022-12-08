@@ -4,7 +4,7 @@ import SmallText from "./SmallText";
 
 function FinalHomeText() {
   return (
-    <div className="mt-4 md:mt-[4rem]">
+    <div className="mt-4 lsm:mt-[2rem] md:mt-[4rem]">
       <div className="leading-relaxed">
         <BoldText
           text={"Wanna see ideas that you can start to make sh*t happen today?"}
